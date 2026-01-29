@@ -1,0 +1,186 @@
+\documentclass[a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{pdfpages}
+\usepackage{xcolor} % Required for custom colors
+\usepackage{hyperref}
+\usepackage{setspace}
+
+\hypersetup{
+    colorlinks=true, % Colors the text of links
+    linkcolor=blue,  % Color of internal links (like ToC)
+    filecolor=magenta,
+    urlcolor=cyan,
+    pdftitle={Syllabus and Module Content},
+    pdfpagemode=FullScreen,
+}
+
+\newpage
+
+% --- 1. Rename the Table of Contents ---
+\renewcommand{\contentsname}{Syllabus and Module Content}
+
+% --- 2. Remove Section Numbering (Clean Look) ---
+\setcounter{secnumdepth}{-1}
+
+\begin{document}
+
+% --- Generate the Table of Contents ---
+\tableofcontents
+\newpage
+
+\section{Notes on the Document}
+
+\begin{spacing}{1.5}
+
+This is a compilation of the syllabi that are relevant to the requirements of the program for the admissions committee. A document outline is provided for ease of access; the courses are grouped by major and sorted by course number.
+
+At the University of Nebraska-Lincoln, a comprehensive list of all courses offered in my majors, including brief descriptions, can be found in the course catalog at the following links:
+
+\begin{enumerate}
+    \item \href{https://catalog.unl.edu/undergraduate/engineering/computer-science/#newitemtext}{Computer Science}
+    \item \href{https://catalog.unl.edu/undergraduate/courses/math/}{Mathematics}
+    \item \href{https://catalog.unl.edu/undergraduate/courses/econ/}{Economics}
+\end{enumerate}
+
+Additionally, I transferred credits from INTI International College Penang, where I obtained credits for MATH 133 and MATH 134. These were recognized as equivalent credits at the University of Nebraska-Lincoln for MATH 106 (Calculus I) and MATH 107 (Calculus II). 
+
+However, since INTI International College Penang does not retain its previous syllabi, I have used the syllabi from the University of Nebraska-Lincoln instead.
+
+CS 136 was taken for graduate credit at Harvard University during my time as a Research Associate.
+
+All other credits listed here were obtained at the University of Nebraska-Lincoln.
+
+\end{spacing}
+
+\newpage
+
+% ==========================================
+% GROUP 1: COMPUTER SCIENCE
+% ==========================================
+\phantomsection
+\addcontentsline{toc}{section}{Computer Science}
+
+
+% CSCE 155E
+\includepdf[pages=-, addtotoc={1, subsection, 1, CSCE 155E - Computer Science I, cs155}]{./syllabi/CSCE 155E - Computer Science I.pdf}
+
+% CSCE 156
+\includepdf[pages=-, addtotoc={1, subsection, 1, CSCE 156 - Computer Science II, cs156}]{./syllabi/CSCE 156 - Computer Science II.pdf}
+
+% CSCE 231
+\includepdf[pages=-, addtotoc={1, subsection, 1, CSCE 231 - Computer Systems Engineering, cs231}]{./syllabi/CSCE 231 - Computer Systems Engineering.pdf}
+
+% CSCE 235
+\includepdf[pages=-, addtotoc={1, subsection, 1, CSCE 235 - Introduction to Discrete Structures, cs235}]{./syllabi/CSCE 235 - Introduction to Discrete Structures.pdf}
+
+% CSCE 251
+\includepdf[pages=-, addtotoc={1, subsection, 1, CSCE 251 - UNIX Programming, cs251}]{./syllabi/CSCE 251 - UNIX Programming.pdf}
+
+% CSCE 301
+\includepdf[pages=-, addtotoc={1, subsection, 1, CSCE 301 - Data Structures and Algorithms, cs301}]{./syllabi/CSCE 301 - Data Structures and Algorithms.pdf}
+
+% CSCE 322
+\includepdf[pages=-, addtotoc={1, subsection, 1, CSCE 322 - Programming Language Concepts, cs322}]{./syllabi/CSCE 322 - Programming Language Concepts.pdf}
+
+% CSCE 361
+\includepdf[pages=-, addtotoc={1, subsection, 1, CSCE 361 - Software Engineering, cs361}]{./syllabi/CSCE 361 - Software Engineering.pdf}
+
+% CSCE 401H
+\includepdf[pages=-, addtotoc={1, subsection, 1, CSCE 401H - Design Studio I, cs401}]{./syllabi/CSCE 401H - Design Studio I.pdf}
+
+% CSCE 402H (Renamed Title)
+\includepdf[pages=-, addtotoc={1, subsection, 1, CSCE 402H - Design Studio II, cs402}]{./syllabi/CSCE 402H - Design Studio II.pdf}
+
+% CSCE 423
+\includepdf[pages=-, addtotoc={1, subsection, 1, CSCE 423 - Design and Analysis of Algorithms, cs423}]{./syllabi/CSCE 423 - Design and Analysis of Algorithms.pdf}
+
+% CSCE 451 (Renamed Title)
+\includepdf[pages=-, addtotoc={1, subsection, 1, CSCE 451 - Operating Systems, cs451}]{./syllabi/CSCE 451 - Operating Systems Principles.pdf}
+
+% CSCE 474
+\includepdf[pages=-, addtotoc={1, subsection, 1, CSCE 474 - Introduction to Data Mining, cs474}]{./syllabi/CSCE 474 - Introduction to Data Mining.pdf}
+
+% CSCE 478
+\includepdf[pages=-, addtotoc={1, subsection, 1, CSCE 478 - Introduction to Machine Learning, cs478}]{./syllabi/CSCE 478 - Introduction to Machine Learning.pdf}
+
+% CS 136
+\includepdf[pages=-, addtotoc={1, subsection, 1, COMPSCI 136 - Economics and Computation, cs136}]{./syllabi/CS136 - Economics and Computation.pdf}
+
+
+% ==========================================
+% GROUP 2: MATHEMATICS
+% ==========================================
+\phantomsection
+\addcontentsline{toc}{section}{Mathematics}
+
+% MATH 106
+\includepdf[pages=-, addtotoc={1, subsection, 1, MAT 133 - Calculus and Analytical Geometry I, math106}]{./syllabi/MATH 106 - Calculus I.pdf}
+
+% MATH 107
+\includepdf[pages=-, addtotoc={1, subsection, 1, MAT 134 - Calculus and Analytical Geometry II, math107}]{./syllabi/MATH 107 - Calculus II.pdf}
+a=
+% MATH 208
+\includepdf[pages=-, addtotoc={1, subsection, 1, MATH 208 - Calculus III, math208}]{./syllabi/MATH 208 - Calculus III.pdf}
+
+% MATH 310
+\includepdf[pages=-, addtotoc={1, subsection, 1, MATH 310 - Introduction to Modern Algebra, math310}]{./syllabi/MATH 310 - Introduction to Modern Algebra.pdf}
+
+% MATH 314
+\includepdf[pages=-, addtotoc={1, subsection, 1, MATH 314 - Linear Algebra, math314}]{./syllabi/MATH 314 - Linear Algebra.pdf}
+
+% MATH 325
+\includepdf[pages=-, addtotoc={1, subsection, 1, MATH 325 - Elementary Analysis, math325}]{./syllabi/MATH 325 - Elementary Analysis.pdf}
+
+% STAT 380
+\includepdf[pages=-, addtotoc={1, subsection, 1, STAT 380 - Statistics and Application, stat380}]{./syllabi/STAT 380 - Statistics and Application.pdf}
+
+% MATH 417
+\includepdf[pages=-, addtotoc={1, subsection, 1, MATH 417 - Group Theory, math417}]{./syllabi/MATH 417 - Group Theory.pdf}
+
+% MATH 428
+\includepdf[pages=-, addtotoc={1, subsection, 1, MATH 428 - Introduction to Operations Research, math428}]{./syllabi/MATH 428 - Introduction to Operations Research.pdf}
+
+% MATH 435
+\includepdf[pages=-, addtotoc={1, subsection, 1, MATH 435 - Math in the City, math435}]{./syllabi/MATH 435 - Math in the City.pdf}
+
+
+% ==========================================
+% GROUP 3: ECONOMICS AND BUSINESS
+% ==========================================
+\phantomsection
+\addcontentsline{toc}{section}{Economics and Business}
+
+% ACCT 201
+\includepdf[pages=-, addtotoc={1, subsection, 1, ACCT 201 - Introduction to Financial Accounting, acct201}]{./syllabi/ACCT 201 - Introduction to Financial Accounting.pdf}
+
+% ACCT 202
+\includepdf[pages=-, addtotoc={1, subsection, 1, ACCT 202 - Introductory Accounting II, acct202}]{./syllabi/ACCT 202 - Introductory Accounting II.pdf}
+
+% ECON 215
+\includepdf[pages=-, addtotoc={1, subsection, 1, ECON 215 - Statistics, econ215}]{./syllabi/ECON 215 - Statistics.pdf}
+
+% ECON 311
+\includepdf[pages=-, addtotoc={1, subsection, 1, ECON 311 - Intermediate Macroeconomics, econ311}]{./syllabi/ECON 311 - Intermediate Macroeconomics.pdf}
+
+% ECON 321
+\includepdf[pages=-, addtotoc={1, subsection, 1, ECON 321 - Introduction to International Economics, econ321}]{./syllabi/ECON 321 - Introduction to International Economics.pdf}
+
+% SCMA 331 (Sorting numerically 331 before 361/380/400s)
+\includepdf[pages=-, addtotoc={1, subsection, 1, SCMA 331 - Operations and Supply Chain Management, scma331}]{./syllabi/SCMA 331 - Operations and Supply Chain Management.pdf}
+
+% SCMA 350
+\includepdf[pages=-, addtotoc={1, subsection, 1, SCMA 350 - Business Data Analytics, scma350}]{./syllabi/SCMA 350 - Business Data Analytics.pdf}
+
+% FINA 361
+\includepdf[pages=-, addtotoc={1, subsection, 1, FINA 361 - Finance, fina361}]{./syllabi/FINA 361 - Finance.pdf}
+
+% ECON 409
+\includepdf[pages=-, addtotoc={1, subsection, 1, ECON 409 - Economic Data Visualization and Analysis, econ409}]{./syllabi/ECON 409 - Economic Data VIsualization and Analysis.pdf}
+
+% ECON 417
+\includepdf[pages=-, addtotoc={1, subsection, 1, ECON 417 - Introduction to Econometrics, econ417}]{./syllabi/ECON 417 - Introduction to Econometrics.pdf}
+
+% ECON 423
+\includepdf[pages=-, addtotoc={1, subsection, 1, ECON 423 - Economics of Less Developed Economies, econ423}]{./syllabi/ECON 423 - Economics of Less Developed Economies.pdf}
+
+\end{document}
