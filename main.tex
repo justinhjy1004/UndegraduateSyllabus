@@ -4,6 +4,13 @@
 \usepackage{xcolor} % Required for custom colors
 \usepackage{hyperref}
 \usepackage{setspace}
+\usepackage{geometry}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{xcolor}
+
+\geometry{a4paper, margin=1in}
 
 \hypersetup{
     colorlinks=true, % Colors the text of links
@@ -14,8 +21,6 @@
     pdfpagemode=FullScreen,
 }
 
-\newpage
-
 % --- 1. Rename the Table of Contents ---
 \renewcommand{\contentsname}{Syllabus and Module Content}
 
@@ -24,11 +29,17 @@
 
 \begin{document}
 
+% RWTH Aachen
+\input{Universities/aachen.tex}
+
+\newpage
+
 % --- Generate the Table of Contents ---
 \tableofcontents
 \newpage
 
 \section{Notes on the Document}
+\label{sec: notes on document}
 
 \begin{spacing}{1.5}
 
