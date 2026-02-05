@@ -1,4 +1,4 @@
-\documentclass[a4paper]{article}
+\documentclass[10pt, a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage{pdfpages}
 \usepackage{xcolor} % Required for custom colors
@@ -9,6 +9,8 @@
 \usepackage{booktabs}
 \usepackage{array}
 \usepackage{xcolor}
+\usepackage[scaled]{helvet} % Helvetica is the LaTeX substitute for Arial
+\usepackage[T1]{fontenc}
 
 \geometry{a4paper, margin=1in}
 
@@ -30,7 +32,16 @@
 \begin{document}
 
 % RWTH Aachen
-\input{Universities/aachen.tex}
+% \input{Universities/aachen.tex}
+
+{
+\fontfamily{phv}\selectfont % 'phv' is the code for Helvetica
+\fontsize{10pt}{12pt}\selectfont
+% TU Braunschweig
+\input{Universities/tu_braunchsweig.tex}
+}
+
+
 
 \newpage
 
@@ -101,6 +112,8 @@ All other credits listed here were obtained at the University of Nebraska-Lincol
 
 % CSCE 402H (Renamed Title)
 \includepdf[pages=-, addtotoc={1, subsection, 1, CSCE 402H - Design Studio II, cs402}]{./syllabi/CSCE 402H - Design Studio II.pdf}
+
+\includepdf[pages=-, addtotoc={1, subsection, 1, CSCE402H - CapstoneRelease6, cs402_capstone}]{./syllabi/CSCE402H - CapstoneRelease 6.pdf}
 
 % CSCE 423
 \includepdf[pages=-, addtotoc={1, subsection, 1, CSCE 423 - Design and Analysis of Algorithms, cs423}]{./syllabi/CSCE 423 - Design and Analysis of Algorithms.pdf}

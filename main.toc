@@ -10,31 +10,32 @@
 \contentsline {subsection}{\ignorespaces CSCE 361 - Software Engineering}{50}{section*.12}%
 \contentsline {subsection}{\ignorespaces CSCE 401H - Design Studio I}{52}{section*.13}%
 \contentsline {subsection}{\ignorespaces CSCE 402H - Design Studio II}{63}{section*.14}%
-\contentsline {subsection}{\ignorespaces CSCE 423 - Design and Analysis of Algorithms}{74}{section*.15}%
-\contentsline {subsection}{\ignorespaces CSCE 451 - Operating Systems}{83}{section*.16}%
-\contentsline {subsection}{\ignorespaces CSCE 474 - Introduction to Data Mining}{94}{section*.17}%
-\contentsline {subsection}{\ignorespaces CSCE 478 - Introduction to Machine Learning}{98}{section*.18}%
-\contentsline {subsection}{\ignorespaces COMPSCI 136 - Economics and Computation}{104}{section*.19}%
-\contentsline {section}{Mathematics}{110}{section*.20}%
-\contentsline {subsection}{\ignorespaces MAT 133 - Calculus and Analytical Geometry I}{110}{section*.21}%
-\contentsline {subsection}{\ignorespaces MAT 134 - Calculus and Analytical Geometry II}{113}{section*.22}%
-\contentsline {subsection}{\ignorespaces MATH 208 - Calculus III}{117}{section*.23}%
-\contentsline {subsection}{\ignorespaces MATH 310 - Introduction to Modern Algebra}{119}{section*.24}%
-\contentsline {subsection}{\ignorespaces MATH 314 - Linear Algebra}{121}{section*.25}%
-\contentsline {subsection}{\ignorespaces MATH 325 - Elementary Analysis}{125}{section*.26}%
-\contentsline {subsection}{\ignorespaces STAT 380 - Statistics and Application}{128}{section*.27}%
-\contentsline {subsection}{\ignorespaces MATH 417 - Group Theory}{133}{section*.28}%
-\contentsline {subsection}{\ignorespaces MATH 428 - Introduction to Operations Research}{136}{section*.29}%
-\contentsline {subsection}{\ignorespaces MATH 435 - Math in the City}{139}{section*.30}%
-\contentsline {section}{Economics and Business}{142}{section*.31}%
-\contentsline {subsection}{\ignorespaces ACCT 201 - Introduction to Financial Accounting}{142}{section*.32}%
-\contentsline {subsection}{\ignorespaces ACCT 202 - Introductory Accounting II}{148}{section*.33}%
-\contentsline {subsection}{\ignorespaces ECON 215 - Statistics}{156}{section*.34}%
-\contentsline {subsection}{\ignorespaces ECON 311 - Intermediate Macroeconomics}{162}{section*.35}%
-\contentsline {subsection}{\ignorespaces ECON 321 - Introduction to International Economics}{167}{section*.36}%
-\contentsline {subsection}{\ignorespaces SCMA 331 - Operations and Supply Chain Management}{174}{section*.37}%
-\contentsline {subsection}{\ignorespaces SCMA 350 - Business Data Analytics}{189}{section*.38}%
-\contentsline {subsection}{\ignorespaces FINA 361 - Finance}{203}{section*.39}%
-\contentsline {subsection}{\ignorespaces ECON 409 - Economic Data Visualization and Analysis}{212}{section*.40}%
-\contentsline {subsection}{\ignorespaces ECON 417 - Introduction to Econometrics}{217}{section*.41}%
-\contentsline {subsection}{\ignorespaces ECON 423 - Economics of Less Developed Economies}{224}{section*.42}%
+\contentsline {subsection}{\ignorespaces CSCE402H - CapstoneRelease6}{74}{section*.15}%
+\contentsline {subsection}{\ignorespaces CSCE 423 - Design and Analysis of Algorithms}{81}{section*.16}%
+\contentsline {subsection}{\ignorespaces CSCE 451 - Operating Systems}{90}{section*.17}%
+\contentsline {subsection}{\ignorespaces CSCE 474 - Introduction to Data Mining}{101}{section*.18}%
+\contentsline {subsection}{\ignorespaces CSCE 478 - Introduction to Machine Learning}{105}{section*.19}%
+\contentsline {subsection}{\ignorespaces COMPSCI 136 - Economics and Computation}{111}{section*.20}%
+\contentsline {section}{Mathematics}{117}{section*.21}%
+\contentsline {subsection}{\ignorespaces MAT 133 - Calculus and Analytical Geometry I}{117}{section*.22}%
+\contentsline {subsection}{\ignorespaces MAT 134 - Calculus and Analytical Geometry II}{120}{section*.23}%
+\contentsline {subsection}{\ignorespaces MATH 208 - Calculus III}{124}{section*.24}%
+\contentsline {subsection}{\ignorespaces MATH 310 - Introduction to Modern Algebra}{126}{section*.25}%
+\contentsline {subsection}{\ignorespaces MATH 314 - Linear Algebra}{128}{section*.26}%
+\contentsline {subsection}{\ignorespaces MATH 325 - Elementary Analysis}{132}{section*.27}%
+\contentsline {subsection}{\ignorespaces STAT 380 - Statistics and Application}{135}{section*.28}%
+\contentsline {subsection}{\ignorespaces MATH 417 - Group Theory}{140}{section*.29}%
+\contentsline {subsection}{\ignorespaces MATH 428 - Introduction to Operations Research}{143}{section*.30}%
+\contentsline {subsection}{\ignorespaces MATH 435 - Math in the City}{146}{section*.31}%
+\contentsline {section}{Economics and Business}{149}{section*.32}%
+\contentsline {subsection}{\ignorespaces ACCT 201 - Introduction to Financial Accounting}{149}{section*.33}%
+\contentsline {subsection}{\ignorespaces ACCT 202 - Introductory Accounting II}{155}{section*.34}%
+\contentsline {subsection}{\ignorespaces ECON 215 - Statistics}{163}{section*.35}%
+\contentsline {subsection}{\ignorespaces ECON 311 - Intermediate Macroeconomics}{169}{section*.36}%
+\contentsline {subsection}{\ignorespaces ECON 321 - Introduction to International Economics}{174}{section*.37}%
+\contentsline {subsection}{\ignorespaces SCMA 331 - Operations and Supply Chain Management}{181}{section*.38}%
+\contentsline {subsection}{\ignorespaces SCMA 350 - Business Data Analytics}{196}{section*.39}%
+\contentsline {subsection}{\ignorespaces FINA 361 - Finance}{210}{section*.40}%
+\contentsline {subsection}{\ignorespaces ECON 409 - Economic Data Visualization and Analysis}{219}{section*.41}%
+\contentsline {subsection}{\ignorespaces ECON 417 - Introduction to Econometrics}{224}{section*.42}%
+\contentsline {subsection}{\ignorespaces ECON 423 - Economics of Less Developed Economies}{231}{section*.43}%
