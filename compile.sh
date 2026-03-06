@@ -1,2 +1,2 @@
-pdflatex main.tex
-pdflatex main.tex
+pdflatex tu_braunschweig_main.tex
+pdflatex tu_braunschweig_main.tex

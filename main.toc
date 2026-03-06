@@ -5,7 +5,7 @@
 \contentsline {subsection}{\ignorespaces CSCE 231 - Computer Systems Engineering}{21}{section*.7}%
 \contentsline {subsection}{\ignorespaces CSCE 235 - Introduction to Discrete Structures}{30}{section*.8}%
 \contentsline {subsection}{\ignorespaces CSCE 251 - UNIX Programming}{36}{section*.9}%
-\contentsline {subsection}{\ignorespaces CSCE 301 - Data Structures and Algorithms}{40}{section*.10}%
+\contentsline {subsection}{\ignorespaces CSCE 310 - Data Structures and Algorithms}{40}{section*.10}%
 \contentsline {subsection}{\ignorespaces CSCE 322 - Programming Language Concepts}{47}{section*.11}%
 \contentsline {subsection}{\ignorespaces CSCE 361 - Software Engineering}{50}{section*.12}%
 \contentsline {subsection}{\ignorespaces CSCE 401H - Design Studio I}{52}{section*.13}%
@@ -17,8 +17,8 @@
 \contentsline {subsection}{\ignorespaces CSCE 478 - Introduction to Machine Learning}{105}{section*.19}%
 \contentsline {subsection}{\ignorespaces COMPSCI 136 - Economics and Computation}{111}{section*.20}%
 \contentsline {section}{Mathematics}{117}{section*.21}%
-\contentsline {subsection}{\ignorespaces MAT 133 - Calculus and Analytical Geometry I}{117}{section*.22}%
-\contentsline {subsection}{\ignorespaces MAT 134 - Calculus and Analytical Geometry II}{120}{section*.23}%
+\contentsline {subsection}{\ignorespaces MAT 132 - Calculus and Analytical Geometry I}{117}{section*.22}%
+\contentsline {subsection}{\ignorespaces MAT 133 - Calculus and Analytical Geometry II}{120}{section*.23}%
 \contentsline {subsection}{\ignorespaces MATH 208 - Calculus III}{124}{section*.24}%
 \contentsline {subsection}{\ignorespaces MATH 310 - Introduction to Modern Algebra}{126}{section*.25}%
 \contentsline {subsection}{\ignorespaces MATH 314 - Linear Algebra}{128}{section*.26}%
